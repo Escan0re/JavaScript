@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Task1" />
+    <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/4-navigator" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "4-navigator",
+    "git-widget-placeholder": "forReview",
+    "last_opened_file_path": "D:/Study/JavaScript/navigator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\JavaScript\navigator" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +63,7 @@
       <updated>1701874860353</updated>
       <workItem from="1701874861552" duration="5287000" />
       <workItem from="1701957213370" duration="2409000" />
-      <workItem from="1701961726698" duration="959000" />
+      <workItem from="1701961726698" duration="1386000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
@@ -67,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701880531738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавление 1 и 2 заданий">
+      <option name="closed" value="true" />
+      <created>1701963226585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701963226585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="4-navigator" />
+                        <option value="forReview" />
                       </list>
                     </value>
                   </entry>
@@ -98,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1" />
+    <MESSAGE value="Добавление 1 и 2 заданий" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление 1 и 2 заданий" />
   </component>
 </project>
