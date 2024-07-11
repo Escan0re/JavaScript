@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
-      <change afterPath="$PROJECT_DIR$/8-crypto/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-crypto/task5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-sort-loops/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9-sort-loops/task6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "Node.js.task5.js.executor": "Run",
+    "Node.js.task6.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -82,7 +83,9 @@
       <workItem from="1702038247609" duration="545000" />
       <workItem from="1702044319426" duration="340000" />
       <workItem from="1702119690455" duration="26000" />
-      <workItem from="1720602299920" duration="3176000" />
+      <workItem from="1720602299920" duration="3526000" />
+      <workItem from="1720616517893" duration="2192000" />
+      <workItem from="1720693126252" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
