@@ -4,11 +4,8 @@ function currencyConvert(fundsSum, startingCurrency, targetCurrency) {
             '$': 91.8
         }
     };
-    if (startingCurrency === 'rub' && targetCurrency === '$') {
-        const rate = conversionRate[startingCurrency][targetCurrency];
-        return fundsSum / rate + '$';
-    }
-    return NaN;
+    const rate = conversionRate[startingCurrency][targetCurrency];
+    return fundsSum / rate + targetCurrency;
 }
 
 console.log(currencyConvert(1000, 'rub', '$'));
