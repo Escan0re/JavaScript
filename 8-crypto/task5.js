@@ -1,20 +1,26 @@
-const password = 'password';
-const checkPassword = 'drowssap';
+let originalString = 'password';
+console.log(originalString);
+console.log(Crypto(originalString));
+console.log(Check(Crypto(originalString)));
 
-console.log(password);
-Crypto();
-Check();
 
-function Crypto() {
-    let res = password.split('').reverse().join('');
-    console.log(res);
+function Crypto(str) {
+    return TwoPointers(str);
 }
 
-function Check() {
-    let res = checkPassword.split('').reverse().join('');
-    if (res === 'password') {
-        return console.log('Доступ разрешен');
+function Check(str) {
+    return TwoPointers(str);
+}
+
+function TwoPointers(str) {
+    let char = str.split('');
+    let left = 0;
+    let right = char.length - 1;
+    while (left < right) {
+        [char[left], char[right]] = [char[right], char[left]];
+        left++;
+        right--;
     }
-    return console.log('Ошибка');
+    return char.join('')
 }
 
