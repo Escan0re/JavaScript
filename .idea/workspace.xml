@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
-      <change afterPath="$PROJECT_DIR$/10-array-clean/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-array-clean/task7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-date-array/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-date-array/task9.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +45,7 @@
     &quot;Node.js.task5.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task6.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task7.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task9.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -89,6 +90,7 @@
       <workItem from="1720693126252" duration="4193000" />
       <workItem from="1720704568282" duration="4842000" />
       <workItem from="1720736341534" duration="334000" />
+      <workItem from="1721034640689" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
