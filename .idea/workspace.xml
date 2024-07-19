@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
-      <change afterPath="$PROJECT_DIR$/12-luna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-luna/task10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-query/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-query/task11.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Node.js.task10.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task11.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task5.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task6.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task7.js.executor&quot;: &quot;Run&quot;,
@@ -50,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;forReview2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;forReview3&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaScript/navigator&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -95,7 +96,12 @@
       <workItem from="1721055108391" duration="600000" />
       <workItem from="1721056672512" duration="5000" />
       <workItem from="1721134997608" duration="7181000" />
-      <workItem from="1721148208866" duration="1729000" />
+      <workItem from="1721148208866" duration="1833000" />
+      <workItem from="1721151387774" duration="35000" />
+      <workItem from="1721303292206" duration="49000" />
+      <workItem from="1721315553026" duration="64000" />
+      <workItem from="1721338886759" duration="2549000" />
+      <workItem from="1721406489193" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
