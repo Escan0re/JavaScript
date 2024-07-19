@@ -1,13 +1,40 @@
-const arr = ['10-02-2022', 'тест', '11/12/2023', '00/13/2022', '01.02.2000', '01/00/2000', '41.12'];
-console.log(arr);
+const array = [`10-02-2022`, `тест`, `11/12/2023`, `00/13/2022`, `41/12/2023`];
 
-const operations = arr
-    .filter(el => ['.', '-', '/']
-        .some(char => el.includes(char)))
-    .map(el => el.split(/[-/.]/))
-    .filter((el => el[0] <= 31 && el[0] > 0 && el[1] <= 12 && el[1] > 0
-        || el[1] <= 31 && el[1] > 0 && el[0] <= 12 && el[0] > 0))
-    .map(el => el.join('-'))
-    .flat()
 
-console.log(operations);
+function isNumber(num) {
+    return !isNaN(Number(num)) && isFinite(num);
+}
+
+function isDay(num) {
+    return Number(num) > 0 && Number(num) <= 30;
+}
+
+function isMonth(num) {
+    return Number(num) > 0 && Number(num) <= 12;
+}
+
+function isYear(num) {
+    return Number(num) > 2005 && Number(num) <= 2025;
+}
+
+function checkDate(array) {
+    if (array.some(el => !isNumber(el)) || array.length !== 3) {
+        return false;
+    }
+    const [day, month, year] = array;
+    return isDay(day) && isMonth(month) && isYear(year);
+}
+
+function filterArray(array) {
+    return array.reduce((acc, valueArray) => {
+        const date = valueArray.split(/[-\/]/gm);
+        if (checkDate(date)) {
+            acc.push(date.join('-'))
+        }
+        return acc;
+
+    }, []);
+}
+
+console.log(array);
+console.log(filterArray(array));

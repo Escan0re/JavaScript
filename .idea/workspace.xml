@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
-      <change afterPath="$PROJECT_DIR$/12-luna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-luna/task10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-date-array/task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-date-array/task9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +95,7 @@
       <workItem from="1721056672512" duration="5000" />
       <workItem from="1721134997608" duration="7181000" />
       <workItem from="1721148208866" duration="1729000" />
+      <workItem from="1721406838419" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
