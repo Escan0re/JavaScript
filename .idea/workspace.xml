@@ -7,6 +7,7 @@
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8-crypto/task5.js" beforeDir="false" afterPath="$PROJECT_DIR$/8-crypto/task5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-date-array/task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-date-array/task9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,13 +42,15 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Node.js.Task4.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task10.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task5.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task6.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task7.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task9.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;forReview&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;forReview2&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaScript/navigator&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -85,7 +88,15 @@
       <workItem from="1702119690455" duration="26000" />
       <workItem from="1720602299920" duration="3526000" />
       <workItem from="1720616517893" duration="2192000" />
-      <workItem from="1720693126252" duration="3373000" />
+      <workItem from="1720693126252" duration="4193000" />
+      <workItem from="1720704568282" duration="4842000" />
+      <workItem from="1720736341534" duration="334000" />
+      <workItem from="1721034640689" duration="2629000" />
+      <workItem from="1721055108391" duration="600000" />
+      <workItem from="1721056672512" duration="5000" />
+      <workItem from="1721134997608" duration="7181000" />
+      <workItem from="1721148208866" duration="1729000" />
+      <workItem from="1721406838419" duration="4934000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
