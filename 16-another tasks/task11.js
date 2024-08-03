@@ -45,6 +45,7 @@ const addNewTask = function (taskTitle, taskPriority, taskDescription) {
     };
     this.tasks.push(newTask);
 }.bind(newTask);
+
 const removeNewTask = toDoList.removeTask.bind(newTask);
 const updateNewTask = toDoList.updateTask.bind(newTask);
 const sortNewTasksByPriority = toDoList.sortTasksByPriority.bind(newTask);

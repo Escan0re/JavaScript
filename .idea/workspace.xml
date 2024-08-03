@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
+      <change afterPath="$PROJECT_DIR$/17-calc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-calc/task12.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8-crypto/task5.js" beforeDir="false" afterPath="$PROJECT_DIR$/8-crypto/task5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-date-array/task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/11-date-array/task9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-another tasks/task11.js" beforeDir="false" afterPath="$PROJECT_DIR$/16-another tasks/task11.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +25,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Escan0re&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Escan0re/JavaScript.git&quot;,
+    &quot;accountId&quot;: &quot;4b170d42-0b6c-4e5e-80bc-366b0a10f844&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,6 +63,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Node.js.task10.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task11.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task5.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task6.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.task7.js.executor&quot;: &quot;Run&quot;,
@@ -97,6 +118,20 @@
       <workItem from="1721134997608" duration="7181000" />
       <workItem from="1721148208866" duration="1729000" />
       <workItem from="1721406838419" duration="4934000" />
+      <workItem from="1721667493312" duration="12000" />
+      <workItem from="1721669165623" duration="107000" />
+      <workItem from="1721669303872" duration="191000" />
+      <workItem from="1721734871491" duration="364000" />
+      <workItem from="1721738685032" duration="32000" />
+      <workItem from="1721738803901" duration="36000" />
+      <workItem from="1721738886433" duration="630000" />
+      <workItem from="1721773144736" duration="716000" />
+      <workItem from="1721846518292" duration="1000" />
+      <workItem from="1721942597026" duration="689000" />
+      <workItem from="1721987079561" duration="3653000" />
+      <workItem from="1722543364590" duration="5000" />
+      <workItem from="1722549815455" duration="126000" />
+      <workItem from="1722695032032" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
