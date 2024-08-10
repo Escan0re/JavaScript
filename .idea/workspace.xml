@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61725ee5-a0ca-4782-b6f7-dbd050f3890c" name="Changes" comment="Добавление 1 и 2 заданий">
-      <change afterPath="$PROJECT_DIR$/tracker/data/demo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker/scripts/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tracker/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,29 +53,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Node.js.app.js.executor": "Run",
-    "Node.js.task10.js.executor": "Run",
-    "Node.js.task5.js.executor": "Run",
-    "Node.js.task6.js.executor": "Run",
-    "Node.js.task7.js.executor": "Run",
-    "Node.js.task9.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Tracker",
-    "last_opened_file_path": "D:/Study/JavaScript/navigator",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task10.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task5.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task6.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task7.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.task9.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Tracker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaScript/navigator&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Study\JavaScript\navigator" />
@@ -120,7 +119,8 @@
       <workItem from="1721406838419" duration="4934000" />
       <workItem from="1722793326504" duration="7768000" />
       <workItem from="1722861136117" duration="4639000" />
-      <workItem from="1723204996444" duration="7156000" />
+      <workItem from="1723204996444" duration="7414000" />
+      <workItem from="1723248070637" duration="2381000" />
     </task>
     <task id="LOCAL-00001" summary="Task1">
       <option name="closed" value="true" />
