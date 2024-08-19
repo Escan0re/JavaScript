@@ -1,8 +1,9 @@
 'use strict';
 
-function submitForm(operation) {
+function performOperation(operation) {
     const firstInputValue = Number(document.querySelector('.firstInput').value);
     const secondInputValue = Number(document.querySelector('.secondInput').value);
+
     if (!firstInputValue || !secondInputValue) {
         return;
     }
@@ -30,8 +31,16 @@ function submitForm(operation) {
 
     document.querySelector('.panel').innerText = `Результат операции: ${result}`;
     document.querySelectorAll('.firstInput, .secondInput').forEach(input => input.value = '');
-
     localStorage.setItem('result', JSON.stringify(result));
 
+
 }
+
+document.body.addEventListener('click', (event) => {
+    const button = event.target;
+    if (button.classList.contains('button')) {
+        const operation = button.textContent;
+        performOperation(operation);
+    }
+});
 
